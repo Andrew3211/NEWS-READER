@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">News Reader</string>
+    <string name="search">Search</string>
+
+    <string name="titleScreenOne">Быстрое обновление</string>
+    <string name="descriptionScreenOne">Самое быстрое обновление новостей из разных новостных источников только для вас!</string>
+
+    <string name="titleScreenTwo">Поделись новостью своей</string>
+    <string name="descriptionScreenTwo">Понравилась новость? Поделись ею с друзьями через установленные на твоём телефоне мессенджеры!</string>
+
+    <string name="titleScreenThree">Разберётся даже ребёнок</string>
+    <string name="descriptionScreenThree">Максимально простой и удобный интерфейс без каких-либо сложностей!</string>
+
+
+</resources>
